@@ -1,0 +1,14 @@
+.prettyprint {
+    padding: 8px;
+    background-color: #f7f7f9;
+    border: 1px solid #e1e1e8;
+    width: 600px;
+}
+
+.prettyprint li {
+    padding: 7px;
+}
+
+.prettyprint li:nth-child(odd) {
+    background-color: #ffffff;
+}
