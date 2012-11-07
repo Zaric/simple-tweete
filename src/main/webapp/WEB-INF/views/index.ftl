@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Tweete for SoftwareMill</title>
+    <title>Simple Tweete</title>
     <link href="resources/css/bootstrap.css" rel="stylesheet">
     <link href="resources/css/bootstrap-responsive.css" rel="stylesheet">
     <link href="resources/css/style.css" rel="stylesheet">
